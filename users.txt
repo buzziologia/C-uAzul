@@ -1,0 +1,5 @@
+vini,vini
+oi,eu
+fabio,1
+vinirosabuzzi@gmail.com,oi
+logan,logan
